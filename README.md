@@ -1,2 +1,1 @@
-# Online-store-for-pharmacy
-Online-store-for-pharmacy - Module Web Development - University 1 year Final Project
+This project is an online store for a pharmacy. It allows users to browse, search, and purchase pharmaceutical products, as well as manage their accounts and orders. The platform aims to provide a user-friendly and secure way for customers to order medicines online.
